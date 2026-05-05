@@ -126,7 +126,7 @@ Automated-Resume-Screening-Tool/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ai-resume-screening-system.git
+git clone https://github.com/kodurumanisha84/ai-resume-screening-system.git
 cd ai-resume-screening-system
 ```
 
@@ -177,17 +177,6 @@ http://localhost:8501
 * Score Visualization
 * Shortlisted vs Rejected
 * Explainability Panel
-
----
-
-## 📸 Screenshots
-
-*Add your screenshots here:*
-
-* Dashboard UI
-* Candidate Ranking
-* Charts
-* Explanation Panel
 
 ---
 
